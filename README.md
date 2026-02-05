@@ -95,7 +95,7 @@ After receiving your initial score, you can ask for:
 
 ## Who created this?
 
-This test was developed by a Context Engineer and Swarm coder name Bay Raitt (spiraloid) to address a gap in AI literacy: most users don't know what "good" LLM usage looks like. It's designed to be:
+This test was developed by a Context Engineer and Swarm Coder named Bay Raitt (spiraloid) to address a gap in AI literacy: most users don't know what "good" LLM usage looks like. It's designed to be:
 
 - **Self-contained**: No sign-ups, no data collection
 - **Educational**: Teaches by showing gaps, not just scoring
