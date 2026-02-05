@@ -101,6 +101,8 @@ This test was developed by a Context Engineer and Swarm Coder named Bay Raitt (s
 - **Educational**: Teaches by showing gaps, not just scoring
 - **Practical**: Focuses on techniques you can apply immediately
 
+*note from the author:  I have been refining this to self evaluate my own LLM use.  I find the test itself extremely useful for setting up a context within which I can have a longer conversation about my context crafting skills.  I encourage anyone who takes the test to ask followup questions, the "individual" it creates has been very useful to me, hopefully yours is too.  
+
 ## Contributing
 
 Found a bug or have suggestions for improvement? Feel free to open an issue or submit a pull request.
